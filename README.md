@@ -38,4 +38,4 @@ url:https://www.toutiao.com/api/pc/feed/
 | 美食 | news_food |
 | ... | ... |
 
-json接口示例:https://www.toutiao.com/api/pc/feed/?category=__all__
+json接口示例:https://www.toutiao.com/api/pc/feed/?category=news_hot
