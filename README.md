@@ -15,7 +15,7 @@ url:https://www.toutiao.com/api/pc/feed/
 
 | 标签 | category值 |
 | ------------- |:-------------:|
-| 推荐 | __all__ |
+| 推荐 | \_\_all\_\_ |
 | 热点 | news_hot |
 | 科技 | news_tech |
 | 社会 | news_society |
@@ -36,3 +36,6 @@ url:https://www.toutiao.com/api/pc/feed/
 | 美文 | news_essay |
 | 历史 | news_history |
 | 美食 | news_food |
+| ... | ... |
+
+json接口示例:https://www.toutiao.com/api/pc/feed/?category=\_\_all\_\_
